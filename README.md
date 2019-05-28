@@ -1,2 +1,0 @@
-# ReactFirstClasses
-Created with CodeSandbox
